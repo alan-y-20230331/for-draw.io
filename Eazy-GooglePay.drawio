@@ -88,8 +88,8 @@
         <mxCell id="PJthDoJv0WFITbKWcrjk-43" value="Order Confirm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="284" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJthDoJv0WFITbKWcrjk-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;collectDeviceAuthFingerprint&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="484" y="575" width="210" height="50" as="geometry" />
+        <mxCell id="PJthDoJv0WFITbKWcrjk-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot;&gt;collectDeviceAuthFingerprint&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484" y="575" width="196" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PJthDoJv0WFITbKWcrjk-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJthDoJv0WFITbKWcrjk-49" target="PJthDoJv0WFITbKWcrjk-51">
           <mxGeometry relative="1" as="geometry" />
